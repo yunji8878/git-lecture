@@ -58,6 +58,9 @@ vi 에디터 상태에서 `ESC`키 누름
 |:wq|저장하고 닫기|
 |:숫자|지정한 줄 번호로 이동|
 
+(아래 동영상 클릭)  
+[![vi 에디터 사용법 동영상](https://i.ytimg.com/vi/XvLQEUp3lLE/hqdefault.jpg)](https://www.youtube.com/embed/XvLQEUp3lLE)
+
 ## Study Chapter Index
 - Chapter 1
   - What is Git?
